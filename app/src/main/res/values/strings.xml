@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="poster_image">Poster Image</string>
+    <string name="overview">Synopsis:</string>
+    <string name="vote_average">Vote Average:</string>
+    <string name="release_date">Release Date:</string>
+    <string name="error_message">Data not available</string>
+    <string name="failed_data_retrieval">Failed to get results. Please try again.</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="top_rated">Top Rated</string>
+</resources>
